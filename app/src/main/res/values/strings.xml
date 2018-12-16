@@ -3,4 +3,15 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_settings">設定</string>
+
+    <!-- settings -->
+    <string name="title_activity_settings">設定</string>
+    <string name="settings_category_about_this_app">このアプリについて</string>
+    <string name="settings_app_version">アプリバージョン</string>
+    <string name="settings_oss_license">オープンソースライセンス</string>
 </resources>
